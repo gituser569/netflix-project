@@ -84,7 +84,7 @@ form button {
     padding: 10px 20px;
     font-size: 1em;
     background-color: #e50914;
-    color: red;
+    color: yellow;
     border: none;
     cursor: pointer;
     margin-left: 10px;
